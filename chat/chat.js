@@ -2,13 +2,13 @@
 window.onload = function() {
 
   const firebaseConfig = {
-    apiKey: "AIzaSyABY9mAJrmezgiwDu74wb-G7QRQ_nMh6LA",
-    authDomain: "mini90-f0db0.firebaseapp.com",
-    projectId: "mini90-f0db0",
-    storageBucket: "mini90-f0db0.appspot.com",
-    messagingSenderId: "16049035389",
-    appId: "1:16049035389:web:34c4c8e12b8ed3d767b914",
-    measurementId: "G-1ZTXX2S2KS"
+    apiKey: "AIzaSyAmEIpq8Nq6yEEvEHO0jh6KRbjH7HY9nB8",
+  authDomain: "minm-1f94f.firebaseapp.com",
+  projectId: "minm-1f94f",
+  storageBucket: "minm-1f94f.appspot.com",
+  messagingSenderId: "171420979690",
+  appId: "1:171420979690:web:d8a27aa137a443680e6293",
+  measurementId: "G-3Q5H24LK0Z"
   };
 
   firebase.initializeApp(firebaseConfig);
