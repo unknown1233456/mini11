@@ -1,6 +1,6 @@
 body{
-  /* https://www.color-hex.com/color/d3d3d3 */
-  background-color: #fff; /*#f6f6f6, EBEBD3, fafafa*/
+  
+  background-color: #fff;
   font-family: Bungee Outline;
   font-weight: 900;
 
@@ -23,7 +23,7 @@ body{
   justify-content: center;
   align-items: center;
 
-  background-color: rgb(12, 12, 12);/*#467599;*/
+  background-color: rgb(12, 12, 12);
   border-bottom: 5px solid #fff;
   box-shadow: 0 0 30px -18px #D64045;
 
@@ -41,7 +41,7 @@ body{
 }
 #title{
   display: inline-block;
-  color: #fff;/*EBEBD3, C5283D*/
+  color: #fff;
   font-size: 55px;
   letter-spacing: 2px;
   user-select: none;
